@@ -4,6 +4,7 @@ This is an undergoing personalized summary of the book, [Designing Data-Intensiv
 ## Table of Contents
 1. [Reliable Scalable and Maintainable Applications](chapter_1.md)
 1. [Data Models and Query Languages](chapter_2.md)
+1. [Storage and Retrieval](chapter_3.md)
 
 ![](https://dataintensive.net/images/book-cover.png)
 
