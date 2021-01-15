@@ -1,4 +1,4 @@
-# Desinging Data Intensive Applications
+# Designing Data Intensive Applications
 ## Chapter 1: Reliable, Scalable and Maintainable Applications
 
 ### Readability
@@ -13,7 +13,7 @@ even in the face of adversity (hardware or software faults, and even human error
 
 Fault is usually defined as one component of the system deviating from its spec, whereas a failure is when the system
 as a whole stops providing the required service to the user. It is impossible to reduce the probability of a fault to
-zero; therfore it is usually best to design fault-tolerance mechanisms that prevent faults from causing failures.
+zero; therefore it is usually best to design fault-tolerance mechanisms that prevent faults from causing failures.
 
 Systems that anticipate faults and can cope with them are called fault-tolerant or resilient. Many critical bugs are
 actually due to poor error handling; by deliberately inducing faults, you ensure that the fault-tolerance machinery

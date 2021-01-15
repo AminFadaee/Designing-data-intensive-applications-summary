@@ -1,4 +1,4 @@
-# Desinging Data Intensive Applications
+# Designing Data Intensive Applications
 ## Chapter 2: Data Models and Query Languages
 In this chapter we will look at a range of general-purpose data models for data storage and querying.
 
@@ -59,7 +59,8 @@ relational model (which became SQL, and took over the world) and the network mod
 following but eventually faded into obscurity).
 
 #### The Network Model
-The network model was standardized by a committee called the Conference on Data Systems Languages (CODASYL) and implemented by several different database vendors; it is also known as the CODASYL model [16].
+The network model was standardized by a committee called the Conference on Data Systems Languages (CODASYL) and
+implemented by several different database vendors; it is also known as the CODASYL model [16].
 
 The CODASYL model was a generalization of the hierarchical model. In the tree structure of the hierarchical model, 
 every record has exactly one parent; in the network model, a record could have multiple parents.
