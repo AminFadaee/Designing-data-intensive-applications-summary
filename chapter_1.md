@@ -1,7 +1,7 @@
 # Designing Data Intensive Applications
 ## Chapter 1: Reliable, Scalable and Maintainable Applications
 
-### Readability
+### Reliability
 The system should continue to work correctly (performing the correct function at the desired level of performance)
 even in the face of adversity (hardware or software faults, and even human error). This roughly translates to 
 *continuing to work correctly, even when things go wrong*. Some examples of this include:
