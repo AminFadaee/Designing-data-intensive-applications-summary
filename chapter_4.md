@@ -73,18 +73,18 @@ open source. Both Thrift and Protocol Buffers require a schema for any data that
 Thrift Example:
 ```
 struct Person {
-	1: required string	 	 userName,
-	2: optional i64	  		 favoriteNumber,
-	3: optional list<string>	 interests
+	1: required string userName,
+	2: optional i64 favoriteNumber,
+	3: optional list<string> interests
 }
 ```
 
 Protocol Buffers Example:
 ```
 message Person{
-	required string user_name 	= 1;
-	optional int64 favorite_number	= 2;
-	repeated string interests 	= 3;
+	required string user_name = 1;
+	optional int64 favorite_number = 2;
+	repeated string interests = 3;
 }
 ```
 
