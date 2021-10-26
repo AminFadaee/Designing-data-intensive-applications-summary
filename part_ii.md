@@ -6,18 +6,18 @@ Part II, we move up a level and ask: what happens if multiple machines are invol
 
 There are various reasons why you might want to distribute a database across multiple machines:
 
-Scalability
+##### Scalability
 
 If your data volume, read load, or write load grows bigger than a single machine can handle, you can potentially spread
 the load across multiple machines.
 
-Fault tolerance/high availability
+##### Fault tolerance/high availability
 
 If your application needs to continue working even if one machine (or several machines, or the network, or an entire
 datacenter) goes down, you can use multiple machines to give you redundancy. When one fails, another one can take
 over.
 
-Latency
+##### Latency
 
 If you have users around the world, you might want to have servers at various locations worldwide so that each user can
 be served from a datacenter that is geographically close to them. That avoids the users having to wait for network
@@ -49,13 +49,13 @@ distributed system—the database cannot magically hide these from you.
 #### Replication Versus Partitioning
 There are two common ways data is distributed across multiple nodes:
 
-Replication
+##### Replication
 
 Keeping a copy of the same data on several different nodes, potentially in different locations. Replication provides
 redundancy: if some nodes are unavailable, the data can still be served from the remaining nodes. Replication can also
 help improve performance. We discuss replication in Chapter 5.
 
-Partitioning
+##### Partitioning
 
 Splitting a big database into smaller subsets called partitions so that different partitions can be assigned to
 different nodes (also known as sharding). We discuss partitioning in Chapter 6.
