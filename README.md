@@ -12,6 +12,7 @@ This is an undergoing personalized summary of the book, [Designing Data-Intensiv
 [Part II: Distributed Data](part_ii.md)
 
 5. [Replication](chapter_5.md)
+5. [Partitioning](chapter_6.md)
 
 
 ![](https://dataintensive.net/images/book-cover.png)
