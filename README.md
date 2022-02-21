@@ -14,6 +14,7 @@ This is an undergoing personalized summary of the book, [Designing Data-Intensiv
 5. [Replication](chapter_5.md)
 6. [Partitioning](chapter_6.md)
 7. [Transactions](chapter_7.md)
+8. [The Trouble with Distributed Systems](chapter_8.md)
 
 
 ![](https://dataintensive.net/images/book-cover.png)
