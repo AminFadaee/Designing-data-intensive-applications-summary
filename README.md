@@ -17,6 +17,12 @@ This is an undergoing personalized summary of the book, [Designing Data-Intensiv
 8. [The Trouble with Distributed Systems](chapter_8.md)
 9. [Consistency and Consensus](chapter_9.md)
 
+[Part III: Derived Data](part_iii.md)
+
+10. Batch Processing
+11. Streaming Processing
+12. The Future of Data Systems
+
 
 ![](https://dataintensive.net/images/book-cover.png)
 
