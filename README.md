@@ -20,7 +20,7 @@ This is an undergoing personalized summary of the book, [Designing Data-Intensiv
 [Part III: Derived Data](part_iii.md)
 
 10. [Batch Processing](chapter_10.md)
-11. Streaming Processing
+11. [Streaming Processing](chapter_11.md)
 12. The Future of Data Systems
 
 
