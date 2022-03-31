@@ -21,7 +21,7 @@ This is an undergoing personalized summary of the book, [Designing Data-Intensiv
 
 10. [Batch Processing](chapter_10.md)
 11. [Streaming Processing](chapter_11.md)
-12. The Future of Data Systems
+12. [The Future of Data Systems](chapter_12.md)
 
 
 ![](https://dataintensive.net/images/book-cover.png)
