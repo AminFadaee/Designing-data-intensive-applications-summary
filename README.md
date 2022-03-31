@@ -1,5 +1,5 @@
 # Designing Data-Intensive Applications Summary
-This is an undergoing personalized summary of the book, [Designing Data-Intensive Applications](https://dataintensive.net/).
+This is a personalized summary of the book, [Designing Data-Intensive Applications](https://dataintensive.net/).
 
 ## Table of Contents
 [Part I: Foundations of Data Systems](part_i.md)
